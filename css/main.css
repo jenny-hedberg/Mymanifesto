@@ -1,0 +1,38 @@
+body {
+	width:600px;
+}
+
+.column {
+	float: left;
+}
+
+.box {
+	width:200px;
+	height:200px;
+	text-align: center;
+	padding: 10px;
+
+}
+
+.red {
+	background-color:orange;
+	font-family:'Hepta Slab', serif;
+	font-size:19px;
+}
+
+.blue {
+	background-color:wheat;
+	font-family:Source Code Pro, monospace;
+	font-size:15px;
+}
+
+.green {
+	background-color:cornsilk;
+	font-family:'Roboto Mono', monospace;
+}
+
+.coral {
+	background-color:coral;
+	font-family:'Roboto Mono', monospace;
+	font-size:20px;
+}
